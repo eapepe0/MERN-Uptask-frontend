@@ -54,27 +54,35 @@ Realizado con **Express** , **cors** , **dotenv** , **mongoose** (manejo de **mo
 
 ## Deploy
 
-[Link a la pagina cliente](https://MERN-Uptask-frontend-lilac.vercel.app/)
-[Link a la pagina admin](https://MERN-Uptask-frontend-lilac.vercel.app/admin)
+[Link a la pagina](https://mern-uptask-frontend-liart.vercel.app/)
 
 ## Capturas
 
+Login
 ![screen-1](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-1.jpg)
+Registro
 ![screen-2](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-2.jpg)
+Olvide mi password
 ![screen-3](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-3.jpg)
-
+Pagina Inicial de Proyectos
 ![screen-4](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-4.jpg)
+Preview Tarea (colaborador)
 ![screen-5](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-5.jpg)
+Tarea completada
 ![screen-6](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-6.jpg)
-
+Proyecto (vista creador del proyecto)
 ![screen-7](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-7.jpg)
+Crear Proyecto
 ![screen-8](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-8.jpg)
+Buscar Proyectos
 ![screen-9](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-9.jpg)
-
+Auto completado de Proyectos
 ![screen-10](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-10.jpg)
+Crear Tareas
 ![screen-11](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-11.jpg)
+Editar Tareas
 ![screen-12](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-12.jpg)
-
+Agregar Colaborador
 ![screen-13](https://raw.githubusercontent.com/eapepe0//MERN-Uptask-frontend/main/screen-13.jpg)
 
 ## Performance
